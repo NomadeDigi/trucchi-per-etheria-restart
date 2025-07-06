@@ -1,6 +1,6 @@
 // formValidator.js
 // Simple form validation utility
-// Author: [TuoNome] - For educational purposes only
+// For educational purposes only
 
 const FormValidator = {
   isEmail(email) {
